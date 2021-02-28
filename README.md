@@ -1,5 +1,5 @@
-# codespaces-go
-A starter kit for any new project to use Github codespaces with Golang.
+# development-go
+A starter development kit for any new project to leverage development containers to use Github codespaces, VSCode Devcontainers and Gitpod for **Golang**.
 
 ## Setting up the development container
 
