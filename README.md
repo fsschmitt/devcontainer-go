@@ -1,4 +1,4 @@
-# development-go
+# devcontainer-go
 A starter development kit for any new project to leverage development containers to use Github codespaces, VSCode Devcontainers and Gitpod for **Golang**.
 
 ## Setting up the development container
