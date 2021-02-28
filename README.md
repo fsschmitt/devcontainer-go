@@ -29,7 +29,9 @@ Follow these steps to open this sample in a container using the VS Code Remote -
 Follow these steps to open this sample in a Gitpod environment:
 
 1. Create a free Gitpod account by connecting your Github account.
-2. Access [gitpod.io/#github.com/fsschmitt/codespaces-go](gitpod.io/#github.com/fsschmitt/codespaces-go)
+2. Access [gitpod.io/#github.com/fsschmitt/devcontainer-go](gitpod.io/#github.com/fsschmitt/devcontainer-go)
+
+or click here: [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/fsschmitt/devcontainer-go)
 
 ![image](https://user-images.githubusercontent.com/492108/109428900-0ac9ab00-79f1-11eb-8fa5-2b7703e4733e.png)
 
