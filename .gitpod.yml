@@ -3,4 +3,5 @@ image:
   context: .devcontainer
 
 tasks:
-  - command: go run .
+  - init: echo "Let's start developing with Golang.."
+    command: go run .
