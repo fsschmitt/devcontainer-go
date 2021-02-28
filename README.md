@@ -20,3 +20,12 @@ Follow these steps to open this sample in a container using the VS Code Remote -
    - Clone this repository to your local filesystem.
    - Press <kbd>F1</kbd> and select the **Remote-Containers: Open Folder in Container...** command.
    - Select the cloned copy of this folder, wait for the container to start, and try things out!
+
+### Gitpod.io
+
+Follow these steps to open this sample in a Gitpod environment:
+
+1. Create a free Gitpod account by connecting your Github account.
+2. Access [gitpod.io/#github.com/fsschmitt/codespaces-go](gitpod.io/#github.com/fsschmitt/codespaces-go)
+
+*Note: append **gitpod.io/#** to any github, gitlab or bitbucket repo to access it through gitpod.*
