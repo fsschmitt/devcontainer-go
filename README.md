@@ -6,7 +6,10 @@ A starter development kit for any new project to leverage development containers
 ### GitHub Codespaces
 Follow these steps to open this sample in a Codespace:
 1. Click the Code drop-down menu and select the **Open with Codespaces** option.
-1. Select **+ New codespace** at the bottom on the pane.
+2. Select **+ New codespace** at the bottom on the pane.
+
+![image](https://user-images.githubusercontent.com/492108/109428941-30ef4b00-79f1-11eb-9923-2a79469d18e7.png)
+
 
 For more info, check out the [GitHub documentation](https://docs.github.com/en/free-pro-team@latest/github/developing-online-with-codespaces/creating-a-codespace#creating-a-codespace).
 
@@ -27,5 +30,7 @@ Follow these steps to open this sample in a Gitpod environment:
 
 1. Create a free Gitpod account by connecting your Github account.
 2. Access [gitpod.io/#github.com/fsschmitt/codespaces-go](gitpod.io/#github.com/fsschmitt/codespaces-go)
+
+![image](https://user-images.githubusercontent.com/492108/109428900-0ac9ab00-79f1-11eb-8fa5-2b7703e4733e.png)
 
 *Note: append **gitpod.io/#** to any github, gitlab or bitbucket repo to access it through gitpod.*
