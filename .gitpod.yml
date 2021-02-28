@@ -1,5 +1,6 @@
 image:
-  file: Dockerfile
+  file: .devcontainer/Dockerfile
+  context: .devcontainer
 
 tasks:
   - init: echo "Let's start developing with Golang.."
